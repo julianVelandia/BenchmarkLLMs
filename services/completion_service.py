@@ -15,7 +15,8 @@ def _get_completion_local(model: str, prompt: str) -> str:
                 time.sleep(10)
                 continue
             history = [
-                {"role": "system", "content": "Eres un asistente inteligente. Siempre das respuestas bien razonadas que son correctas, concretas, cortas y útiles."},
+                {"role": "system",
+                 "content": "Eres un asistente inteligente. Siempre das respuestas bien razonadas que son correctas, concretas, cortas y útiles."},
                 {"role": "user", "content": prompt},
             ]
             completion = client.chat.completions.create(
@@ -29,9 +30,11 @@ def _get_completion_local(model: str, prompt: str) -> str:
             time.sleep(10)
     return "There was no response from the model"
 
+
 def run_model_on_questions(data: list, model: str):
     template_prompt = "Answer the following question in a single sentence: {question}"
-    for item in data:
+    for index, item in enumerate(data, start=1):
+        print(f"Processing question {index} out of {len(data)}")
         prompt = template_prompt.format(question=item['question'])
         item['llm_answer'] = _get_completion_local(model, prompt)
     return data

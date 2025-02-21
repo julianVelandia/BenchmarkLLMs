@@ -122,3 +122,5 @@ desktop.ini
 *.swp
 
 .env
+
+results.json
