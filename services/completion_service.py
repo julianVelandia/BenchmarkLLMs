@@ -2,6 +2,8 @@ import time
 
 from openai import OpenAI
 
+from services.rag_service import get_rag
+
 
 def _get_completion_local(model: str, prompt: str) -> str:
     retries = 5
@@ -10,10 +12,14 @@ def _get_completion_local(model: str, prompt: str) -> str:
             client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
             models_available = client.models.list()
             current_model = models_available.data[0].id if models_available.data else "None"
-            if model not in [m.id for m in models_available.data]:
+            if model.replace("+RAG","") not in [m.id for m in models_available.data]:
                 print(f"Please start the LM Studio server with the model: {model}. Currently running: {current_model}")
                 time.sleep(10)
                 continue
+            if "+RAG" in model:
+                rag_context = get_rag(prompt)
+                prompt += "Tienes el siguiente contexto: " + rag_context
+
             history = [
                 {"role": "system",
                  "content": "Eres un asistente inteligente. Siempre das respuestas bien razonadas que son correctas, concretas, cortas y útiles."},
