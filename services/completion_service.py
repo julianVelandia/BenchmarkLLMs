@@ -7,18 +7,16 @@ from services.rag_service import get_rag
 
 def _get_completion_local(model: str, prompt: str) -> str:
     retries = 5
+    model = model.replace("+RAG", "")
     for attempt in range(retries):
         try:
             client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
             models_available = client.models.list()
             current_model = models_available.data[0].id if models_available.data else "None"
-            if model.replace("+RAG","") not in [m.id for m in models_available.data]:
+            if model not in [m.id for m in models_available.data]:
                 print(f"Please start the LM Studio server with the model: {model}. Currently running: {current_model}")
                 time.sleep(10)
                 continue
-            if "+RAG" in model:
-                rag_context = get_rag(prompt)
-                prompt += "Tienes el siguiente contexto: " + rag_context
 
             history = [
                 {"role": "system",
@@ -37,10 +35,17 @@ def _get_completion_local(model: str, prompt: str) -> str:
     return "There was no response from the model"
 
 
-def run_model_on_questions(data: list, model: str):
+def run_model_on_questions(data: list, model: str, rag):
     template_prompt = "Answer the following question in a single sentence: {question}"
     for index, item in enumerate(data, start=1):
         print(f"Processing question {index} out of {len(data)}")
+
         prompt = template_prompt.format(question=item['question'])
+        if "+RAG" in model:
+            print('question', item['question'])
+            rag_context = get_rag(item['question'], rag)
+            print('rag_context', rag_context)
+            prompt += "Tienes el siguiente contexto: "+rag_context
+
         item['llm_answer'] = _get_completion_local(model, prompt)
     return data
