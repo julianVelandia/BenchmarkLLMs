@@ -1,10 +1,11 @@
+import json
+import os
 import random
 import time
-import os
-import json
 from collections import defaultdict
-from openai import OpenAI
+
 from dotenv import load_dotenv
+from openai import OpenAI
 
 
 def load_model_results(file_path):
@@ -70,10 +71,9 @@ def get_completion_ranker(list_answers, real_answer, api_key):
     return "Failed to rank the responses after multiple attempts"
 
 
-def main():
+def ranking_llms(model_results_file="../models_answers.json"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
-    model_results_file = "../models_answers.json"
     model_results = load_model_results(model_results_file)
     organized_data = prepare_ranking_data(model_results)
 
@@ -84,7 +84,3 @@ def main():
         rankings_results.append({"question": question_data["question"], "ranking": ranking})
 
     print(json.dumps(rankings_results, indent=4, ensure_ascii=False))
-
-
-if __name__ == "__main__":
-    main()
