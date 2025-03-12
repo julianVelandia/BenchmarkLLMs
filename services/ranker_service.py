@@ -13,16 +13,42 @@ def load_model_results(file_path):
         return json.load(file)
 
 
+def load_existing_rankings(file_path="../model_answers_ranking.json"):
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as file:
+            try:
+                return json.load(file)
+            except json.JSONDecodeError:
+                return []
+    return []
+
+
+def save_ranking_result(new_result, file_path="../model_answers_ranking.json"):
+    existing_results = load_existing_rankings(file_path)
+
+    existing_questions = {entry["question"] for entry in existing_results}
+    if new_result["question"] in existing_questions:
+        return
+
+    existing_results.append(new_result)
+    with open(file_path, "w", encoding="utf-8") as file:
+        json.dump(existing_results, file, indent=4, ensure_ascii=False)
+
+
 def prepare_ranking_data(model_results):
     questions_dict = defaultdict(lambda: {"list_answers": [], "real_answer": None})
 
     for model_name, responses in model_results.items():
         for entry in responses:
-            question = entry["question"]
-            real_answer = entry["answer"]
-            llm_answer = entry["llm_answer"]
+            question = entry.get("question")
+            if not question:
+                continue
 
-            questions_dict[question]["list_answers"].append({"model_name": model_name, "response": llm_answer})
+            real_answer = entry.get("answer", "No respuesta")
+            llm_answer = entry.get("llm_answer", "No respuesta")
+
+            questions_dict[question]["list_answers"].append(
+                {"model_name": model_name, "response": llm_answer if llm_answer.strip() else "No respuesta"})
             if questions_dict[question]["real_answer"] is None:
                 questions_dict[question]["real_answer"] = real_answer
 
@@ -38,12 +64,12 @@ def get_completion_ranker(list_answers, real_answer, api_key):
 
     for attempt in range(retries):
         try:
-            random.shuffle(list_answers)  # Mezclar respuestas para evitar sesgo
+            random.shuffle(list_answers)
             formatted_responses = [f"{i + 1}: {entry['response']}" for i, entry in enumerate(list_answers)]
 
             prompt = (
-                    "Rank the following responses from best to worst based on accuracy and relevance to the question. "
-                    "Only return the ranking in a numbered list format, like this: \n1: model_name\n2: model_name\n...\n"
+                    "Rank the following responses from best to worst based on their accuracy and relevance to the question. "
+                    "Return only a numbered list with model numbers, like this: \n3, 5, 6, 4, 2, 1\n"
                     "Here are the responses:\n\n"
                     + "\n".join(formatted_responses) +
                     f"\n\nThe correct answer is:\n{real_answer}"
@@ -56,19 +82,19 @@ def get_completion_ranker(list_answers, real_answer, api_key):
                 stream=False,
             )
 
-            ranking_text = response.choices[0].message.content.strip().split("\n")
+            ranking_text = response.choices[0].message.content.strip()
 
+            ranked_numbers = ranking_text.split(",")
             ranked_models = []
-            for rank in ranking_text:
-                for entry in list_answers:
-                    if entry["response"] in rank:
-                        ranked_models.append(entry["model_name"])
-                        break
+            for num in ranked_numbers:
+                index = int(num.strip()) - 1
+                if 0 <= index < len(list_answers):
+                    ranked_models.append(list_answers[index]["model_name"])
 
-            return ranked_models
+            return ranked_models if ranked_models else "no respuesta"
         except Exception:
             time.sleep(10)
-    return "Failed to rank the responses after multiple attempts"
+    return "no respuesta"
 
 
 def ranking_llms(model_results_file="../models_answers.json"):
@@ -76,11 +102,17 @@ def ranking_llms(model_results_file="../models_answers.json"):
     api_key = os.getenv("OPENAI_API_KEY")
     model_results = load_model_results(model_results_file)
     organized_data = prepare_ranking_data(model_results)
+    existing_rankings = load_existing_rankings()
+    existing_questions = {entry["question"] for entry in existing_rankings}
 
-    rankings_results = []
-    organized_data = organized_data[:2]
     for question_data in organized_data:
-        ranking = get_completion_ranker(question_data["list_answers"], question_data["real_answer"], api_key)
-        rankings_results.append({"question": question_data["question"], "ranking": ranking})
+        if question_data["question"] in existing_questions:
+            continue
 
-    print(json.dumps(rankings_results, indent=4, ensure_ascii=False))
+        ranking = get_completion_ranker(question_data["list_answers"], question_data["real_answer"], api_key)
+        result = {"question": question_data["question"], "ranking": ranking}
+        save_ranking_result(result)
+        print(json.dumps(result, indent=4, ensure_ascii=False))
+
+
+ranking_llms()

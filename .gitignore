@@ -122,5 +122,3 @@ desktop.ini
 *.swp
 
 .env
-
-models_answers.json

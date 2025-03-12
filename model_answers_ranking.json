@@ -1,0 +1,1499 @@
+[
+    {
+        "question": "¿Qué tipo de confusión se intenta evitar al utilizar \"HRV\" para referirse a la HRV de 24 horas y no a la HRV a corto plazo?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el papel del ET-1 en la hipertensión pulmonar secundaria y cómo se relaciona con la resistencia vascular pulmonar?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la probabilidad de error diagnóstico entre los pacientes que cumplieron la definición de caso probable o sospechoso para COVID-19 en el grupo de exposición, y cómo se compara con la probabilidad de error diagnóstico entre los pacientes que no cumplieron la definición de caso en el mismo grupo?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la prevalencia de deterioro cognitivo en pacientes con lupus y qué instrumentos se utilizan para medirlo? ¿Hay algún estudio que haya encontrado una relación entre el deterioro cognitivo y otros síntomas del lupus?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el patrón de ductus en cierre que se asocia significativamente con la mortalidad y el tipo de tratamiento recibido en pacientes con CAP?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuáles son los factores de riesgo para la salud mental identificados en el estudio de Médicos Sin Fronteras (2010) en el departamento de Caquetá, Colombia?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el propósito principal de la escala NIS en relación con la evaluación de pacientes con neuropatía?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál fue el proceso utilizado para desarrollar las categorías relacionadas con guías de atención médica basadas en la evidencia y cómo se interrelacionaron?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el resultado del análisis de regresión multivariable para la variable \"Edad\" en relación con el desenlace de hospitalización?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del Ministerio de Cultura al invitar a miembros del Instituto Nacional de Sordos (INSOR) a participar en la Feria de Fiestas y narraciones en Lengua de Señas (LS)?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el riesgo de bias en la evaluación del estudio sobre la reducción o retirada de terapia antihipertensiva en mujeres embarazadas con enfermedad vascular hipertensa crónica?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuáles son los objetivos y aplicaciones del Proceso Analítico Jerárquico (PAJ) según la revisión de literatura presentada en el fragmento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la relación entre los excedentes generados por los grupos SURA y BOLÍVAR y los excedentes distribuidos?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de patologías se consideran bajas prioridad según el fragmento debido a su atención clínica efectiva, homogénea y de bajo riesgo?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cómo se propone evaluar la validéz predictiva del modelo de simulación y la metodología de aprendizaje en el contexto de la implementación de un modelo de simulación en patología torácica para Cirugía Pediátrica?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la especificidad del marcador TLE1 en el diagnóstico de sarcomas no clasificados de alto grado?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Por qué los estudiantes de diseño gráfico no mencionaron explícitamente el graduarse o terminar la carrera como objetivos en el mapa de valor?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de investigación se considera Investigación sin riesgo según la Resolución Nº 008430 del Ministerio de Salud de Colombia, y cómo se aplica en este estudio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de pruebas de laboratorio especializadas son necesarias para establecer un diagnóstico adecuado en pacientes con una biopsia pleural que muestra características precisas pero no definitivas?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de evaluación integral se busca implementar en la educación médica para valorar el desempeño de los estudiantes y evidenciar su desarrollo de conocimientos, habilidades y actitudes?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de conocimientos y habilidades consideran las enfermeras como necesarias para un adecuado acompañamiento a la gestante en el parto humanizado?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del estudio de Onuma T et al. (2018) sobre la asociación entre la detección de HLA A*31:01 y la incidencia de reacciones adversas cutáneas inducidas por carbamazepina en una población japonesa?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué dimensiones de la vida académica se relacionan con el bienestar emocional según la encuesta?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué conceptos de salud se pueden identificar en las entrevistas E1 y E4, y cómo se relacionan con la idea de ausencia de enfermedades y características perjudiciales?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué ha cambiado en la forma en que los jóvenes y adultos mambean según el texto?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de datos se presentan en el fragmento proporcionado y qué información pueden extraerse o analizar?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de información personal y médica se recopilará en el estudio quirúrgico mencionado, y cómo se garantizará la confidencialidad de dicha información?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el microorganismo asociado a la menor supervivencia global, según la información presentada en la tabla No. 6?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué longitud de onda se estableció como apropiada para la determinación de la actividad ligninolítica en el compuesto Azure B?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el porcentaje de entradas en el Subnivel de HFACS que corresponden a fallas en los procesos organizacionales?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué factores pueden estar relacionados con la persistencia de eventos de Desorientación Espacial en pilotos, según el texto?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el propósito principal del directorio administrativo en el Grupo INTERBOLSA S.A., según el texto?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el mecanismo por el cual diferentes mutaciones en un transportador de ATP tipo P en parásitos de Leishmania están asociadas con resistencia cruzada a dos medicamentos líderes?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la diferencia entre el engrosamiento pleural focal y difuso en relación con su apariencia y dimensión según se describe en el fragmento?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el impacto de los ortesis en la marcha de niños con enfermedad de Charcot-Marie-Tooth? ¿Se han encontrado diferencias significativas en la marcha entre niños con diferentes tipos de la enfermedad?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la categoría de riesgo a los seres humanos a la que se ajusta el proyecto de investigación?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál fue el puntaje más alto en el dominio de ideación depresiva según la agrupación diagnóstica y cuál fue el puntaje más bajo?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del entrenamiento con el GYRO IPT II™ en la preparación del piloto?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de sanciones ha interpuesto la Superintendencia de Financiera de Colombia contra el Grupo INTERBOLSA S.A. por violaciones a las regulaciones del mercado de valores?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué trastornos mentales pueden conllevar a un diagnóstico inadecuado del paciente transgénero y qué papel juega el acompañamiento psicosocial en la atención adecuada?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué características clínicas pueden ayudar a distinguir nódulos tiroideos malignos de benignos en niños y adolescentes?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de los estudios mencionados en este fragmento sobre epileptología y neuroimaging?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las patologías más prevalentes en pacientes pediátricos que requieren transporte aeromédico en Colombia?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué factores personales y culturales se han evaluado en la literatura como influenciadores en la decisión de solicitar analgesia peridural, y cómo se comparan con los resultados del estudio mencionado?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la inmunohistoquímica realizada en los sarcomas indiferenciados del sistema nervioso central en pacientes pediátricos, según se muestra en las figuras 10 y 12?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el impacto financiero que tiene para el sistema de salud colombiano el aumento en los gastos generados por las sentencias de tutela relacionadas con la prestación de servicios de salud?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué condiciones clínicas del paciente pueden potenciar las anormalidades de los mecanismos de defensa en contra de la infección, según la investigación mencionada?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué función se le atribuye al abuelo en la tradición descrita, y cómo se relaciona con la primera protección del bebé?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué nivel de iluminación se recomienda para los baños en un hospital según el RETILAP, y cómo varía este requisito según la edad de las personas?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuáles son los objetivos y técnicas utilizadas en la feminización del esqueleto facial en pacientes transgénero?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la lesión traumática más común en bailarines, según el fragmento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el factor de riesgo más frecuente asociado con la infección necrosante de tejidos blandos en niños según los resultados del estudio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el factor demográfico que se destaca como desfavorable en la comunidad estudiada, según el fragmento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de linfadenectomía lateral se recomienda para el tratamiento del cáncer de tiroides en niños, según los estudios mencionados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué método de medición de fragilidad se encontró relacionado estadísticamente con la mortalidad en el estudio y qué otros métodos no lo fueron?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de búsqueda se está realizando en este fragmento de texto y qué conceptos están siendo buscados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de las relaciones entre individuos o grupos que conviven con mascotas en el mismo lugar, según se describe en el fragmento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Quién fue el primero en anunciar la maduración del fruto de guacure?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuáles son los mecanismos de resistencia a carbapenémicos presentados en la figura 3 y cómo se relacionan con la confirmación de carbapenemasas mediante los flujogramas presentados en las figuras 4 y 5?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el valor del parámetro Hb en la información proporcionada?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la estrategia de búsqueda descrita en este fragmento?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de disposiciones se dictan en la Resolución 1441 de 2013 emitida por el Ministerio de Salud y Protección Social de Colombia?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la tasa de recurrencia más alta en pacientes con lecho ganglionar que han recibido tratamiento quirúrgico, según los datos presentados en el fragmento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué es el objetivo principal de la investigación publicada en \"Gastrointestinal Bleeding in Patients With Acute Respiratory Distress Syndrome: A National Database Analysis\" en 2019?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la relación entre la sensibilidad al ruido y la calidad de vida, según el estudio de Shepherd et al (2010)?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el papel del presidente de la república en materia de regulación económica según el artículo 189 de la Constitución Política?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la principal implicación de clasificar incorrectamente un subtipo de meduloblastoma?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de variables se agruparon en los 7 subgrupos mencionados en la primera categoría del manejo y sin cambios, y cómo afectan a las decisiones terapéuticas de los pacientes hospitalizados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cómo cambia la forma de la onda de salida en el inversor de onda cuadrada según el tipo de carga conectada?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué concepto epistemológico se refiere Aníbal Quijano como la colonialidad del saber y cómo afecta la construcción del conocimiento?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es la edad en la que se encuentra una alta incidencia de desórdenes propios del quehacer del fonoaudiólogo?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el porcentaje de pacientes con Hipertensión Intracraneana que presentaron una carga de enfermedad del 50% en el estudio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el resultado combinado para el desenlace persistencia de la enfermedad residual al comparar la conisión con bisturí versus la escisión LLETZ en los tres estudios mencionados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de análisis estadístico se utilizó en los estudios para evaluar el efecto de las covariables sobre los desenlaces, y qué conclusiones se pueden extraer sobre la calidad de los métodos de control de confusión utilizados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el riesgo de fracturas no espinales en hombres ancianos que presentan síntomas del tracto urinario inferior y cuáles son los factores asociados con este riesgo?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el propósito principal de la escala GRACE en el diagnóstico y tratamiento del paciente con infarto agudo de miocardio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué efectos pueden tener el cambio de altura en el rendimiento de los jugadores de fútbol?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del estudio que fijó mallas de polipropileno/politetrafluoroetileno expandido a la pared abdominal vía laparoscópica en modelos animales?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de conflicto potencial se produce en un piloto que navega en condiciones IFR y cómo afecta su visión central y periférica?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué características específicas de la educación médica en relación con la formación hacen que sea diferente del resto de las disciplinas?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál fue el foco infeccioso más frecuente en los pacientes estudiados?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuáles son las herramientas utilizadas para determinar si una prescripción es inadecuada en pacientes mayores de 65 años y qué características tienen?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuáles son los 7 holdings financieros colombianos mencionados en el texto como estando domiciliados en Colombia?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de estrategias de manejo se encaminan al ahorro de antimicrobianos según la localización de la infección y cómo se relacionan con el seguimiento a planes de educación para el conocimiento de este tipo de microorganismos?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué función tenía la hierba \"sɯ́kuhe\" en la cultura descrita, según la información proporcionada?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de actividades configuran la vida cotidiana de los niños y niñas trabajadores, según sus propios testimonios?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el porcentaje de accidentes fatales relacionados con la SD (Spatial Disorientation) en helicópteros del Ejército de los Estados Unidos entre 2002 y 2011, según el artículo de Gaydos et al. (2011)?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la tasa de éxito más alta reportada en la literatura para la transferencia del nervio pectoral medial y qué músculos se pueden recuperar con esta técnica?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué efectos se han demostrado que tienen los coocultivos de células madre mesenquimales (MSC) con plasma rico en plaquetas (PRP) sobre la disponibilidad y potencial proliferativo de las células?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de asociación significativa encontró Low et al entre la molécula en sangre y esputo y la presencia de hipertensión pulmonar asociada a cardiopatía congénita en pacientes adultos?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué conclusión se puede extraer sobre la relación entre la técnica de chequeo adecuada y el número de instrumentos fijados en los pilotos?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Qué tipo de violencia obstétrica se aborda en los artículos publicados por Aguirre Crespo et al. (2013) y Belli (2013), respectivamente?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Qué consecuencias anatómicas se podrían esperar si no hay suficiente área de contacto entre el talo y el calcáneo, según el estudio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál fue el principal obstáculo para realizar análisis estadísticamente significativos entre las variables clínicas, imagenológicas y patologías en este estudio?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el impacto en el consumo de antibióticos después de implementar intervenciones educativas como parte de un programa para uso optimizado de antimicrobianos?",
+        "ranking": [
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el conflicto que se describe en este fragmento y qué relación tiene con la explotación de recursos naturales?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la importancia de realizar un segundo panel para determinar la histogénesis específica en el diagnóstico de sarcomas intracraneales primarios?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es el lugar más común donde se cometen homicidios-suicidios y qué factores pueden influir en este aspecto?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    },
+    {
+        "question": "¿Cuál es el sistema de puntaje propuesto por Wong y colegas en 2004 para el diagnóstico de fascitis necrosante en adultos?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG"
+        ]
+    },
+    {
+        "question": "¿Cuál es la tasa de mortalidad promedio en pacientes con infecciones causadas por K. pneumoniae productora de carbapenemasas (KPC) en Colombia, según se documenta en el informe de perfil de resistencia de Infecciones Asociadas a la Atención en Salud (IAAS)?",
+        "ranking": [
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-f16.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf/model-f16.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q4_K_M.gguf+RAG",
+            "lmstudio-community/Llama-3.2-1B-Instruct-GGUF/Llama-3.2-1B-Instruct-Q8_0.gguf+RAG",
+            "JulianVelandia/Llama-3.2-1B-unal-instruct-ft-gguf/model-q4_k_m.gguf"
+        ]
+    }
+]
